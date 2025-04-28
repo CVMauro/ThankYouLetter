@@ -2,3 +2,8 @@ body {
   background-image: url("asagao v2.png");
   background-color: #2596be;
 }
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
